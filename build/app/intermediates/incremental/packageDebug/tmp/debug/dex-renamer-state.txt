@@ -1,0 +1,4 @@
+#Tue Oct 22 14:54:14 EEST 2019
+base.0=C\:\\Users\\tudor tanasciuc\\Desktop\\Workflow\\flutter work\\hello_flutter\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
